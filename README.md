@@ -4,7 +4,7 @@
 publication reference: ...
 
 
-<img src="https://github.com/MarcelMB/TetrODrive/blob/main/3D%20print%20stl/TetrODrive_parts.png" width="80" height="80">
+<img src="https://github.com/MarcelMB/TetrODrive/blob/main/3D%20print%20stl/TetrODrive_parts.png" width="300" height="300">
 
 
 
