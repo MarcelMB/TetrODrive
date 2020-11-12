@@ -3,7 +3,7 @@
 
 publication reference: ...
 
-
+![alt text](https://github.com/MarcelMB/TetrODrive/blob/main/TetrODrive_parts.png?raw=true)
 
 
 
