@@ -14,10 +14,8 @@ The TetrODrive consists of two parts: the main body (lower part) and the head (u
 
 Following printing, parts were briefly washed in isopropanol (< 1min). It is critical to limit dwell time in the isopropanol as it facilitates stress cracking later on. Residual liquid was removed from the parts and holes using compressed air. The parts were post cured for 15 min under a UVA lamp and 2 h heating in an oven (50 °C).
 
-printer used: 
-https://www.anycubic.com/products/anycubic-photon-3d-printer
 
-github automatic!
+
 [printer](https://www.anycubic.com/products/anycubic-photon-3d-printer)
 
 more details on 3D printing for microdrives ands its impact: 
