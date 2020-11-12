@@ -11,7 +11,7 @@ Following printing, parts were briefly washed in isopropanol (< 1min). It is cri
 printer used: 
 https://www.anycubic.com/products/anycubic-photon-3d-printer
 
-general introduction of 3D printing for microdrives: 
+more details on 3D printing for microdrives: 
 https://journals.physiology.org/doi/full/10.1152/jn.00955.2014?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org
 
 
