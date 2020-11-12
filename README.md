@@ -26,5 +26,5 @@ more details on 3D printing for microdrives and its impact
 
 The TetroDrive design can be modified to the experimental needs. We uploaded the computer-aided design (CAD) files in the CAD folder.
 
-Custom design files for the PCB (Printed Circuit Board) are found in thr PCB folder.
+Custom design files for the PCB (Printed Circuit Board)/ Electrical Interface Board (EIB) are found in the PCB folder.
 
