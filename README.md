@@ -1,7 +1,10 @@
-# TetrODrive
-A simple 3D printed multi-tetrode microdrive with movable fiber
+## TetrODrive
+# A simple 3D printed multi-tetrode microdrive with movable fiber
 
 publication reference: ...
+
+
+
 
 
 The TetrODrive consists of two parts: the main body (lower part) and the head (upper part). Printing was performed on a low-cost desktop printer using LCD technology (Photon, Anycubic). This printer hardens successive layers of resin (Cherry, HarzLabs) by transilluminating an LCD panel (50 µm resolution) with UV light (405 nm). Layer thickness was 50 µm, layer cure time 16 s for normal layers and 90 s for the six bottom layers. The pieces were printed orthogonally to the build plate and on thin supports. During one run (approximately 2 hours), the printer can print dozens of drive parts in parallel. Given the design of the parts, they can likely be printed on virtually any resin printer but not on the more common filament-based printers. If a printer is not available, online 3D print services can be used. 
