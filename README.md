@@ -1,5 +1,5 @@
-## TetrODrive
-# A simple 3D printed multi-tetrode microdrive with movable fiber
+# TetrODrive
+## A simple 3D printed multi-tetrode microdrive with movable fiber
 
 publication reference: ...
 
