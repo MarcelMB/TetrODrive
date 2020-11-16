@@ -24,7 +24,7 @@ more details on 3D printing for microdrives and its impact
 
 
 
-Both 3D printing files (.stl) for the two TetrODrive parts (body and head)are uploaded. In one print run many of those can be printed in parallel. 
+Both 3D printing files (.stl) for the two TetrODrive parts (body and head) are uploaded. In one print run many of those can be printed in parallel. 
 
 The TetroDrive design can be modified to the experimental needs. We uploaded the computer-aided design (CAD) files in the CAD folder.
 Both a Autodesk Fusion 360 (.f3d) and a universal CAD file format (.step) can be found.
