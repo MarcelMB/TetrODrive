@@ -17,14 +17,17 @@ Following printing, parts were briefly washed in isopropanol (< 1min). It is cri
 
 
 [3D printer](https://www.anycubic.com/products/anycubic-photon-3d-printer)
+Given the design of the parts, they can likely be printed on virtually any resin printer but not on the more common filament-based printers. If a printer is not available, online 3D print services can be used. 
 
 more details on 3D printing for microdrives and its impact
 [Headley et al. 2015](https://journals.physiology.org/doi/full/10.1152/jn.00955.2014?rfr_dat=cr_pub++0pubmed&url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org)
 
 
 
+Both 3D printing files (.stl) for the two TetrODrive parts (body and head)are uploaded. In one print run many of those can be printed in parallel. 
 
 The TetroDrive design can be modified to the experimental needs. We uploaded the computer-aided design (CAD) files in the CAD folder.
+Both a Autodesk Fusion 360 (.f3d) and a universal CAD file format (.step) can be found.
 
-Custom design files for the PCB (Printed Circuit Board)/ EIB (Electrical Interface Board) are found in the PCB folder.
+All necessary custom design files for the PCB (Printed Circuit Board)/ EIB (Electrical Interface Board) are found in the PCB folder.
 
