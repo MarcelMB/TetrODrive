@@ -28,6 +28,7 @@ Both 3D printing files (.stl) for the two TetrODrive parts (body and head) are u
 
 The TetroDrive design can be modified to the experimental needs. We uploaded the computer-aided design (CAD) files in the CAD folder.
 Both a Autodesk Fusion 360 (.f3d) and a universal CAD file format (.step) can be found.
+Autodesk provides their sftware free of charge for non-commericlal applications in academia. The STEP file format makes it also possible to load the design into other CAD software applications.
 
 All necessary custom design files for the PCB (Printed Circuit Board)/ EIB (Electrical Interface Board) are found in the PCB folder.
 
