@@ -1,10 +1,10 @@
 
 | Component  | Supplier | Comments|
-| ------------- | ------------- |
-| **Tetrodes** |  |
+| ------------- | ------------- |  -------------|
+| **Tetrodes** |  | | 
 | tetrode wire. 12.5 µm, HFV insulation  | California Fine Wire Company |*for europe can be bought at axona.com*   |
-| silver ground + reference wire   |  |
-| gold pins (large)   | Neuralynx  |
+| silver ground + reference wire   |  || 
+| gold pins (large)   | Neuralynx  ||
 | silicone coating   | 3140 RTV Coating, DOW corning  |
 | gold plating solution (31 g/l)   | SIFICO ASC |
 | NanoZ  | Multichannel Systems  |
