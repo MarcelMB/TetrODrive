@@ -39,5 +39,5 @@
 | straight tungsten carbide scissors  | Fine scientific tools ||
 | silicone || for protection layer during surgery |
 | slotted screwdriver  | ||
-| toothpick ||*fine UV glue application* |
+| toothpicks ||*fine UV glue application* |
 | insect pins ||*very fine UV glue application* |
