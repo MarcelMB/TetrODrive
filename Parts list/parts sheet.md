@@ -11,7 +11,7 @@
 | Arduino tetrode twister | OpenEphys, LabMaker  |
 | Parafilm |*protection after TetOdrive implantation* |
 | custom electrode interface board | files are uploaded|
-| *except for gorund and reference fication no soldering equipment needed*  |  |
+| *except for gorund and reference fixation no soldering equipment needed*  |  |
 |   |  |
 | **Optical fibers** | |
 | 100 µm 0.22 NA fiber  | UM22-100 Thorlabs |
