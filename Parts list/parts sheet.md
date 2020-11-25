@@ -29,7 +29,7 @@
 | M1 screw nut |  |
 | thread cutting tap **M1x0.25** thread |  |
 | cannula metal 1 mm rods |*hollow inside*  |
-
+|  |  |
 | **General tools and equipment** | |
 | UV glue  | Loctite 4305 |
 | manual vice for drill bits | *Amazon* |
