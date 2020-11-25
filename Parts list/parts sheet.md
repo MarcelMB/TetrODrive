@@ -9,8 +9,9 @@
 | gold plating solution (31 g/l)   | SIFICO ASC |
 | NanoZ  | Multichannel Systems  |
 | Arduino tetrode twister | OpenEphys, LabMaker  |
-| Parafilm | |
+| Parafilm |*protection after TetOdrive implantation* |
 | custom electrode interface board | files are uploaded|
+| *except for gorund and reference fication no soldering equipment needed*  |  |
 |   |  |
 | **Optical fibers** | |
 | 100 µm 0.22 NA fiber  | UM22-100 Thorlabs |
@@ -32,8 +33,11 @@
 |  |  |
 | **General tools and equipment** | |
 | UV glue  | Loctite 4305 |
+| handheld UV lamp  |  |
 | manual vice for drill bits | *Amazon* |
 | forceps  | Fine scientific tools |
 | straight tungsten carbide scissors  | Fine scientific tools |
 | silicone | for protection layer during surgery |
 | slotted screwdriver  | |
+| toothpick |*fine UV glue application* |
+| insect pins |*very fine UV glue application* |
