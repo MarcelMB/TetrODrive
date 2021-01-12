@@ -5,5 +5,5 @@
 | Seed Studio Electronics| [link](https://www.seeedstudio.com/fusion_pcb.html/) | China|
 | OSH Park| [link](https://oshpark.com/) | USA | 
 | Pentalogix| [link](https://www.pentalogix.com/) | USA | 
-| Pad2Pad| [link](https://oshpark.com/) | USA, quick prototypes |
+| Pad2Pad| [link](https://www.pad2pad.com/) | USA, quick prototypes |
 | Sunstone Circuits| [link](https://www.sunstone.com/home2/) | USA | 
