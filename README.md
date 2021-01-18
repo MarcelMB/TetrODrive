@@ -8,7 +8,7 @@ publication reference: ...
 ![alt text](https://github.com/MarcelMB/TetrODrive/blob/main/3D%20print%20stl/TetrODrive_parts.png)
 *scale: 5mm*
 ![alt text](https://github.com/MarcelMB/TetrODrive/blob/main/3D%20print%20stl/TetrODrive_assembled.png)
-<img src="https://github.com/MarcelMB/TetrODrive/blob/main/3D%20print%20stl/drive_photo.jpg" width="48">
+<img src="https://github.com/MarcelMB/TetrODrive/blob/main/3D%20print%20stl/drive_photo.jpg" width="200">
 
 
 
