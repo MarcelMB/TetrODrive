@@ -17,6 +17,12 @@ The TetrODrive consists of two parts: the main body (lower part) and the head (u
 Following printing, parts were briefly washed in isopropanol (< 1min). It is critical to limit dwell time in the isopropanol as it facilitates stress cracking later on. Residual liquid was removed from the parts and holes using compressed air. The parts were post cured for 15 min under a UVA lamp and 2 h heating in an oven (50 °C).
 
 
+Find the Step-by-Step Assembly wiki [HERE](https://github.com/MarcelMB/TetrODrive/wiki/Step-by-step-assembly-of-the-TetrODrive)
+
+[Parts and Material list](https://github.com/MarcelMB/TetrODrive/wiki/Material-and-Tools)
+
+
+
 
 [3D printer](https://www.anycubic.com/products/anycubic-photon-3d-printer)
 Given the design of the parts, they can likely be printed on virtually any resin printer but not on the more common filament-based printers. If a printer is not available, online 3D print services can be used. 
@@ -26,11 +32,11 @@ more details on 3D printing for microdrives and its impact
 
 
 
-Both 3D printing files (.stl) for the two TetrODrive parts (body and head) are uploaded. In one print run many of those can be printed in parallel. 
+Both [3D printing files](https://github.com/MarcelMB/TetrODrive/tree/main/3D%20print%20stl) (.stl) for the two TetrODrive parts (body and head) are uploaded. In one print run, many of those can be printed in parallel. 
 
-The TetroDrive design can be modified to the experimental needs. We uploaded the computer-aided design (CAD) files in the CAD folder.
+The TetroDrive design can be modified to the experimental needs. We uploaded the computer-aided design [(CAD) files](https://github.com/MarcelMB/TetrODrive/tree/main/CAD) in the CAD folder.
 Both a Autodesk Fusion 360 (.f3d) and a universal CAD file format (.step) can be found.
-Autodesk provides their sftware free of charge for non-commericlal applications in academia. The STEP file format makes it also possible to load the design into other CAD software applications.
+Autodesk provides their software free of charge for non-commericlal applications in academia. The STEP file format makes it also possible to load the design into other CAD software applications.
 
-All necessary custom design files for the PCB (Printed Circuit Board)/ EIB (Electrical Interface Board) are found in the PCB folder.
+All necessary custom design files for the PCB (Printed Circuit Board)/ EIB (Electrical Interface Board) are found in the [PCB folder](https://github.com/MarcelMB/TetrODrive/tree/main/EIB_PCB) with [proposed vendors](https://github.com/MarcelMB/TetrODrive/blob/main/EIB_PCB/PCB_EIB_vendors.md) to fabricate.
 
