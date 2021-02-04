@@ -5,10 +5,10 @@ publication reference: ...
 
 
 
-![alt text](https://github.com/MarcelMB/TetrODrive/tree/main/TetrODrive_stl/TetrODrive_parts.png)
+![alt text](https://github.com/MarcelMB/TetrODrive/blob/main/TetrODrive_stl/TetrODrive_parts.png)
 *scale: 5mm*
-![alt text](https://github.com/MarcelMB/TetrODrive/tree/main/TetrODrive_stl/TetrODrive_assembled.png)
-<img src="https://github.com/MarcelMB/TetrODrive/tree/main/TetrODrive_stl/drive_photo.jpg" width="300">
+![alt text](https://github.com/MarcelMB/TetrODrive/blob/main/TetrODrive_stl/TetrODrive_assembled.png)
+<img src="https://github.com/MarcelMB/TetrODrive/blob/main/TetrODrive_stl/drive_photo.jpg" width="300">
 
 
 
