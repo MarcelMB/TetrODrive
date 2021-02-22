@@ -17,6 +17,8 @@ The TetrODrive consists of two parts: the main body (lower part) and the head (u
 Following printing, parts were briefly washed in isopropanol (< 1min). It is critical to limit dwell time in the isopropanol as it facilitates stress cracking later on. Residual liquid was removed from the parts and holes using compressed air. The parts were post cured for 15 min under a UVA lamp and 2 h heating in an oven (50 °C).
 
 
+Find the general wiki [HERE](https://github.com/MarcelMB/TetrODrive/wiki)
+
 Find the Step-by-Step Assembly wiki [HERE](https://github.com/MarcelMB/TetrODrive/wiki/Step-by-step-assembly-of-the-TetrODrive)
 
 [Parts and Material list](https://github.com/MarcelMB/TetrODrive/wiki/Material-and-Tools)
