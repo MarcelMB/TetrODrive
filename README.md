@@ -42,3 +42,4 @@ Autodesk provides their software free of charge for non-commericlal applications
 
 All necessary custom design files for the PCB (Printed Circuit Board)/ EIB (Electrical Interface Board) are found in the [PCB folder](https://github.com/MarcelMB/TetrODrive/tree/main/EIB_PCB) with [proposed vendors](https://github.com/MarcelMB/TetrODrive/blob/main/EIB_PCB/PCB_EIB_vendors.md) to fabricate.
 
+We milled custom-made head plates for our head-fixation setup that we uploaded [here]( https://github.com/MarcelMB/TetrODrive/tree/main/head_plate_stl )
