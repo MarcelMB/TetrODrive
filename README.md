@@ -1,7 +1,7 @@
 # TetrODrive
 ## A simple 3D printed multi-tetrode microdrive with movable fiber
 
-publication reference in the [Journal of Neural Engeneering](https://doi.org/10.1088/1741-2552/abf608)
+publication reference in the [Journal of Neural Engeneering](https://iopscience.iop.org/article/10.1088/1741-2552/abf608)
 
 [preprint](https://www.biorxiv.org/content/10.1101/2020.12.16.423057v1)
 
